@@ -14,8 +14,10 @@ Goals for today:
     Explore the Stewart Castle dataset
     Make more plots!
 
+Before we get into the code -- a quick poll.
 
 On to the exercises
+
 Important Links:
 
     RStudio Cloud Project Link: https://rstudio.cloud/project/3037046
