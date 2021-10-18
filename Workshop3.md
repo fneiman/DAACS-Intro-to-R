@@ -1,12 +1,11 @@
-Welcome to Session 3: Small Steps in R
+# Welcome to Session 3: Small Steps in R
 
 Welcome back! And if you are new, welcome! In this session we are going to continue exploring a sample dataset with R and learn more about ggplot.
-A quick recap of topic from last time
+A quick recap of the topics we covered last time
 
-    Reading R code
-    Recognizing functions (starts with name( )
-    The role of packages
-    We made our first plot
+    *Reading R code
+    *Recognizing functions (starts with name( ) )
+    *We made our first plot
 
 Goals for today
 
